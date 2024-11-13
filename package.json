@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Codebase for CSE264 Programming Assignment 3",
   "private": true,
+  "type": "module",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"

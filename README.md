@@ -1,6 +1,7 @@
 # CSE264 Project 3: Building a REST API with Postgres
 ## Due: Monday, Nov 13, 2024 at 11:59 PM
-## Add your full name and Lehigh email address to this README!
+## Lisa Huang, lih226@lehigh.edu
+## Video Link: https://drive.google.com/file/d/130IPax5dh3VAPn_w_eiHgl-tDIK8S3-I/view?usp=sharing
 
 In this assignment, you will use Node.js, Express.js and Postgres to create your own REST API for Films, and Film Reviews. You will also write some frontend javascript code to test your REST API.
 
